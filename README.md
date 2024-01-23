@@ -1,5 +1,4 @@
 # MMQA
-# UIQAVSI
 Code for MMQA
 ![./Net](https://github.com/dart-into/MMQA/blob/main/framework.png)
 
